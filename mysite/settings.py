@@ -69,6 +69,7 @@ TEMPLATES = [
     },
 ]
 
+DEBUG_PROPAGATE_EXCEPTIONS=True
 WSGI_APPLICATION = 'mysite.wsgi.application'
 
 
